@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-readme-stats.vercel.app/api?username=jigneshnakrani088&include_all_commits=tr[…]_icons=true&theme=vision-friendly-dark&layout=compact
+
+![Mine github](https://github-readme-stats.vercel.app/api?username=jigneshnakrani088&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact)
